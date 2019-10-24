@@ -2,7 +2,7 @@
 """
 Created on Tue Jul 16 10:47:18 2019
 Usando pandas para buscar informações da binance.com
-@author: Felipe Soares
+@author: file:///home/selfprovoked/Machine_Learning
 """
 import requests        #Para fazer solicitações http para binance
 import json            #para analisar o que a binance envia de volta para nós
