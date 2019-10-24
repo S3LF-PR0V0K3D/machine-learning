@@ -3,7 +3,7 @@
 """
 Created on Tue Jul 16 10:38:50 2019
 Machine learning aprendizado supervisionado
-@author: Felipe Soares
+@author: S3LF-PR0V0K3D
 """
 
 
